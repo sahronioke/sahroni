@@ -12,7 +12,7 @@ class numberonescreen extends StatelessWidget {
         backgroundColor: Colors.black12,
         leading: FlutterLogo(),
         title: Text(
-          'tedi rusli',
+          'sahroni',
           style: TextStyle(color: const Color.fromARGB(255, 3, 144, 214)),
         ),
         actions: [Icon(Icons.more_vert)],
